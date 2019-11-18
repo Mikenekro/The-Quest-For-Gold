@@ -1,3 +1,6 @@
+Created as a school project. Took around 2.5 months to develop and around a week of bugfixing. Not all bugs were fixed and the project is uploaded here as it was submitted to my teacher.
+
+
 The Quest For Gold instructions:
 
 Installer: Installs the game on computer. Run the setup.exe (not .msi) to detect for dependencies.
